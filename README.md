@@ -17,7 +17,7 @@ You can access [Barousse's course](https://www.lukebarousse.com/sql) on his webs
 🛠️As part of the course and this project, I used several key tools:
 
 - **SQL:** The backbone of my analysis that allowed me to query the database.
-- **PostgreSQL:** THe database management system, ideal for handling the multiple different datasets.
+- **PostgreSQL:** The database management system, ideal for handling the multiple different datasets.
 - **Visual Studio Code:** My go-to for database management and execution of SQL queries.
 - **ChatGPT:** Utilized to extract trends and insights, as well as create the visualizations incorporated here.
 
